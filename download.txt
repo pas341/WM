@@ -1,1 +1,1 @@
-https://github.com/pas341/WM/releases/download/latest/wintermanager.zip
+https://github.com/pas341/WM/releases/download/0.0.24/wintermanager.zip
