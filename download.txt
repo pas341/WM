@@ -1,1 +1,1 @@
-https://github.com/pas341/WM/releases/download/0.0.24/Winter_Managerjar.zip
+https://github.com/pas341/WM/releases/latest/Winter_Managerjar.zip
